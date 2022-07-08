@@ -1,23 +1,5 @@
 # ssfmri2im
-Code for NeurIPS 2019 paper "From voxels to pixels and back: Self-supervision in natural-image reconstruction from fMRI"
 
-Paper: https://arxiv.org/abs/1907.02431 \
-Project page: http://www.wisdom.weizmann.ac.il/~vision/ssfmri2im/ \
-Short video overview: \
- [![ssfmri2im](http://img.youtube.com/vi/h2JhDAdaa-Q/0.jpg)](http://www.youtube.com/watch?v=h2JhDAdaa-Q "Self-supervision in natural-image reconstruction from fMRI")
-
-
-----------
-If you find our work useful in your research or publication, please cite our work:
-
-```
-@article{beliy2019voxels,
-  title={From voxels to pixels and back: Self-supervision in natural-image reconstruction from fMRI},
-  author={Beliy, Roman and Gaziv, Guy and Hoogi, Assaf and Strappini, Francesca and Golan, Tal and Irani, Michal},
-  journal={arXiv preprint arXiv:1907.02431},
-  year={2019}
-}
-```
 ----------
 ## Basic usage:
 1. Download "Generic Object Decoding" dataset (by Kamitani Lab)
@@ -51,14 +33,4 @@ example output: \
 
 
 
-Predominance of early visual areas in reconstruction
-To reconstruct the images of ‘fMRI on ImageNet’, we considered 4600 visual-cortex voxels provided
-and labeled in [21]. To study the contribution of different visual areas to our reconstruction
-performance, we selected subsets of voxels according to their marked brain areas, and restricted the
-training of our Encoder/Decoder to those voxels. Fig 8 shows reconstruction results when using voxels
-only from the following visual areas: (i) V1 ( 870 voxels), (ii) V1-V3, which refer to as Lower Visual
-Cortex (LVC, 2300 voxels), (iii) Fusiform Face Area (FFA), Parahippocampal Place Area (PPA), and
 
-idea: Use VAE decoder as generator?
-
-multi-code GAN?
