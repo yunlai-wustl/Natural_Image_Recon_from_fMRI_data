@@ -7,4 +7,6 @@ Team members:
 -- Cornelia Wang     paper writing
 -- Haned Yousefi     Result evaluation and visualization 
 
-
+<img src="https://github.com/yunlai-wustl/Natural_Image_Recon_from_fMRI_data/blob/main/imgs/overview.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
