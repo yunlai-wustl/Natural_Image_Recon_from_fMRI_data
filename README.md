@@ -1,9 +1,9 @@
 # Natural_Image_Recon_from_fMRI_data
 This is the project page for Natural_Image_Recon_from_fMRI_data 
-We tested 3 different models:
-- BigBiGan
-- AutoEncoder
-- ICGan
+Team members:
+-- Yunlai Chen       model implementation and training
+-- Mohammad Hadji    fMRI data preprocessing
+-- Cornelia Wang     paper writing
+-- Haned Yousefi     Result evaluation and visualization 
 
 
-    <embed src="https://github.com/yunlai-wustl/Natural_Image_Recon_from_fMRI_data/blob/main/Practicum_Final_Presentation.pptx.pdf">
