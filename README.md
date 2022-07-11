@@ -2,10 +2,10 @@
 This is the project page for Natural_Image_Recon_from_fMRI_data 
 Team members:
 
--- Yunlai Chen       model implementation and training
--- Mohammad Hadji    fMRI data preprocessing
--- Cornelia Wang     paper writing
--- Haned Yousefi     Result evaluation and visualization 
+-- Yunlai Chen:       model implementation and training <br>
+-- Mohammad Hadji:    fMRI data preprocessing <br>
+-- Cornelia Wang:     paper writing <br>
+-- Haned Yousefi:     Result evaluation and visualization <br>
 
 <img src="https://github.com/yunlai-wustl/Natural_Image_Recon_from_fMRI_data/blob/main/imgs/overview.jpg"
      alt="Markdown Monster icon"
